@@ -174,4 +174,8 @@
     <string name="fast_charging_summary">Disable to reduce the heat produced by the device while charging or to extend the lifespan of the battery</string>
     
     <string name="yalp_version">Project-YALP-OS Version</string>
+
+    <!-- Top level YALP STORE --> 
+   <string name="yalp_settings_title">YALP STORE</string>
+   <string name="yalp_settings_summary">Yalp Hub</string>
 </resources>
