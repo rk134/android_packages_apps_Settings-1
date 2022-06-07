@@ -178,4 +178,7 @@
     <!-- Top level YALP STORE --> 
    <string name="yalp_settings_title">YALP STORE</string>
    <string name="yalp_settings_summary">Yalp Hub</string>
+
+   <!-- Yalp Maintainer -->
+    <string name="yalp_maintainer">Device Maintainer</string>
 </resources>
